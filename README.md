@@ -1,7 +1,6 @@
-Clock
-tick, tock, tick
+Clock  tick, tock, tick
 
-a clock haiku: \n
-"The clock within mind \n
-Go slow or faster- based on \n
-Our innerself!"
+a clock haiku:
+<br>
+<br>
+The clock within mind <br>Go slow or faster- based on <br> Our innerself!
